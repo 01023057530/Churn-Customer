@@ -1,5 +1,4 @@
-# NEURONETIX Company
-# Abdelghafor's Hackaton ML Engineer Project
+# NEURONETIX Abdelghafor's Hackaton ML Engineer Project
 # Churn_Customer
 
 This project focuses on analyzing customer behavior in the telecom industry to predict 
